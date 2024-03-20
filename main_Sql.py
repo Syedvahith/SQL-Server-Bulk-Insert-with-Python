@@ -72,5 +72,3 @@ end_time = time.time()
 # Calculate and print compile time
 compile_time = end_time - start_time
 print(f"Compile time: {compile_time} seconds")
-
-
