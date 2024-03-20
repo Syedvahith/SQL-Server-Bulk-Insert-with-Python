@@ -39,7 +39,7 @@ data_files = os.listdir(data_file_folder)
 
 # Define target tables for each CSV file
 target_tables = {
-    'new.csv': 'Bal',
+    'Test.csv': 'Bal',
     'sampledata.csv': 'Bal3'
 }
 
